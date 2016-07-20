@@ -7,7 +7,7 @@
 
 ## Features:
 <ul>
-  <li>Pick students to present randomly</li>
+  <li>Randomly pick students to presenty</li>
   <li>Save individual content and delivery marks for each student</li>
   <li>Import .csv files with or without pre-existing grades</li>
   <li>Export .csv with updated student presentation grades</li>
